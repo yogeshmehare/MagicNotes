@@ -1,0 +1,32 @@
+body{
+    background-color: whitesmoke;
+}
+
+h1{
+    color: rgb(201, 25, 25);
+    text-align: center;
+}
+h2{
+    color: rgb(201, 25, 25);
+    text-align: center;
+}
+
+p.NoNotes{
+    color: rgb(201, 25, 25);
+    text-align: center;
+}
+
+div.CardWithStarFill{
+    background-color: rgb(79, 150, 243);
+}
+
+span.enterText{
+    color: rgb(161, 12, 247);
+    text-align: center;
+}
+
+img.starImage{
+    width: 20px;
+    height: 20px;
+    float: right;
+}
